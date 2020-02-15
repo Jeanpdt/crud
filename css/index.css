@@ -1,0 +1,29 @@
+body {
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+h2 {
+	text-align: center;
+	padding-bottom: 50px !important;
+}
+
+.wrapper {
+	text-align: center;
+}
+
+nav {
+	padding-bottom: 50px !important;
+	text-align: center !important;
+}
+
+th {
+	text-align: center !important;
+}
+
+td {
+	text-align: center;
+}
+
+#consult {
+	padding-top: 50px;
+}
